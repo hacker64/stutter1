@@ -1,1 +1,3 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="movement_stutter" id="10" x="127" y="15"></block>
+</xml>
